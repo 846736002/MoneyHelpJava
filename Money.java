@@ -1,3 +1,6 @@
+﻿/*
+还不知道怎么用github
+*/
 public class Money {
   //花呗还钱好像没有通用性
 	public static void main(String[] args) {
